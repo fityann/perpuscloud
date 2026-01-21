@@ -1,4 +1,4 @@
-<aside class="fixed left-0 top-0 z-999 flex h-screen w-72 flex-col overflow-y-hidden bg-[#1c2434] duration-300 ease-linear lg:static lg:translate-x-0 shadow-2xl">
+<aside id="default-sidebar" class="fixed left-0 top-0 z-999 flex h-screen w-72 flex-col overflow-y-hidden bg-[#1c2434] duration-300 ease-linear lg:static lg:translate-x-0 shadow-2xl">
     <div class="flex items-center justify-between gap-2 px-6 py-6 border-b border-[#2e3a47]">
         <a href="dashboard.php" class="flex items-center gap-3">
             <div class="bg-blue-600 text-white p-2 rounded-lg">
